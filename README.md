@@ -43,8 +43,7 @@
 <div>
   <p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mashrafi47&show_icons=true&theme=radical&locale=en&layout=compact" alt="mashrafi47" /></p>
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mashrafi47&show_icons=true&theme=radical&locale=en" alt="mashrafi47" /></p>
-  
 </div>
-<div>
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mashrafi47&theme=highcontrast" alt="mashrafi47" /></p>
+<div align="center">
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=MASHRAFI47&theme=radical" alt="GitHub Streak" /></a>
 </div>
