@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mashrafi Bin Nur</h1>
 <h3 align="center">A passionate web developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mashrafi47&label=Profile%20views&color=69ffb7&style=flat" alt="mashrafi47" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mashrafi47&label=Profile%20views&color=FF1CF7&style=flat" alt="mashrafi47" /> </p>
 
 - 🌱 I’m currently learning **Next.js**
 
